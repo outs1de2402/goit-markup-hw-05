@@ -680,15 +680,16 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
+  /* display: flex; */
   /* justify-content: center; */
-  align-items: center;
-  gap: 8px;
+  /* align-items: center; */
+  /* margin-right: 8px; */
 }
 
 .span-checkbox {
   display: inline-flex;
   fill: transparent;
+  margin-right: 8px;
   width: 16px;
   height: 16px;
   border-radius: 2px;
