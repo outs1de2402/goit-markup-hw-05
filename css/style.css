@@ -686,7 +686,7 @@ img {
   gap: 8px;
 }
 
-.label-checkbox span {
+.span-checkbox {
   display: inline-flex;
   fill: transparent;
   width: 16px;
